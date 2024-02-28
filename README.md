@@ -13,7 +13,7 @@
 
  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  
-## Interests
+## 🎆 Interests
 I love music and working on music 🎸.
 
 Until recently, I was doing technical drawing (2d and 3d) mostly on Drum'n'Bass, these days I am coding while playing
