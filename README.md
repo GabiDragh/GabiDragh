@@ -16,7 +16,7 @@
 ## Interests
 I love music and working on music 🎸.
 
-Until recently, I was doing technical drawing (2d and 3d) mostly on Drum'n'Base, these days I am coding while playing
+Until recently, I was doing technical drawing (2d and 3d) mostly on Drum'n'Bass, these days I am coding while playing
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21klt36ghjsnmj7hxbla72kfa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21klt36ghjsnmj7hxbla72kfa&redirect=true)
 
