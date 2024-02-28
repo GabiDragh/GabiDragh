@@ -14,16 +14,17 @@
  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  
 ## 🎆 Interests
-I love music and working on music 🎸.
+I love working on music 🎸.
 
 Until recently, I was doing technical drawing (2d and 3d) mostly on Drum'n'Bass, these days I am coding while playing
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21klt36ghjsnmj7hxbla72kfa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21klt36ghjsnmj7hxbla72kfa&redirect=true)
 
-<!---- 💞️ I’m looking to collaborate on ...
+<!-- -- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...--->
+- 😄 Pronouns: ...-
+## ⚡ Fun fact: 
+Diablo II LoD best game ever. -->
 
 <!---
 GabiDragh/GabiDragh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
