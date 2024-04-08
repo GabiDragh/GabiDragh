@@ -1,9 +1,10 @@
 
 # 👋 Hey! Thanks for stopping by!
-#### I am Gabi, a Front-End Developer <img src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" /> Bootcamp graduate.
+#### I am Gabi, a Front-End Developer <img src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" /> Bootcamp graduate. 
+
 ![SoExcited~GIF](https://github.com/GabiDragh/GabiDragh/assets/151403269/62d5ea17-4d2b-451a-808a-f41e92cfb35e)
 
-## 🌱 I’m currently learning
+## 🌱 I’m currently using
   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
