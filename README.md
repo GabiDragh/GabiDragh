@@ -1,6 +1,6 @@
 
 # 👋 Hey! Thanks for stopping by!
-#### I am Gabi, a Front-End Developer <img src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" /> Bootcamp student.
+#### I am Gabi, a Front-End Developer <img src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" /> Bootcamp graduate.
 ![SoExcited~GIF](https://github.com/GabiDragh/GabiDragh/assets/151403269/62d5ea17-4d2b-451a-808a-f41e92cfb35e)
 
 ## 🌱 I’m currently learning
