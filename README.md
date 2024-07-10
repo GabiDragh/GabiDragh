@@ -2,7 +2,7 @@
 # 👋 Hey! Thanks for stopping by!
 #### I am Gabi, a Front-End Developer <img src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" /> Bootcamp graduate. 
 I am currently learning WebGl and Three.js and find it fascinating.
-Also trying to figure out WordPress website restructuring and updating.
+Also trying to figure out WordPress website restructuring and updating, which is definitely not exciting and fascinating.
 
 
 ![SoExcited~GIF](https://github.com/GabiDragh/GabiDragh/assets/151403269/62d5ea17-4d2b-451a-808a-f41e92cfb35e)
