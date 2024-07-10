@@ -30,7 +30,7 @@ Until recently, I was doing architectural technical drawing (2d and 3d) mostly o
 
 
 ## ⚡ Fun facts: 
-Diablo II LoD is the best game ever, none of the badges above are linked and my kid's playlist might come up - The Wheels on The Bus rocks 🤘
+Diablo II LoD is the best game ever, none of the badges above are linked and my kid's playlist might come up - The Wheels on The Bus rocks 🤘 (Spotify playlist currently under refurb).
 
 
 
