@@ -20,11 +20,13 @@ Also trying to figure out WordPress website restructuring and updating, which is
  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />  
  
 ## 🎆 Interests
-I love working on music 🎸.
+I love working on music 🎸, mainly Drum'n'Bass and metal.
 
+<!---
 Until recently, I was doing architectural technical drawing (2d and 3d) mostly on Drum'n'Bass and metal, these days I am coding while playing:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21klt36ghjsnmj7hxbla72kfa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21klt36ghjsnmj7hxbla72kfa&redirect=true)
+--->
 
 
 ## ⚡ Fun facts: 
