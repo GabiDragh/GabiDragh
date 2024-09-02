@@ -33,7 +33,7 @@ Music and gigs, 3D modelling, learning to code, puzzles, board games and Mario O
 
 
 ## ⚡ Fun facts: 
-Diablo II LoD is the best game ever, none of the badges above are linked and my kid's playlist might come up - The Wheels on The Bus rocks 🤘 (Spotify playlist currently under refurb).
+Diablo II LoD is the best game ever, none of the badges above are linked and my kid's playlist might come up - The Wheels on The Bus rocks 🤘 
 
 
 
