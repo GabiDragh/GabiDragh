@@ -1,8 +1,9 @@
 
 # 👋 Hey! Thanks for stopping by!
 #### I am Gabi, a Front-End Developer <img src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" /> Bootcamp graduate. 
-I am currently learning WebGl and Three.js and find it fascinating.
-Also trying to figure out WordPress website restructuring and updating, which is definitely not exciting and fascinating.
+On a fascinating journey to learning WebGl and Three.js. Currently working with next.js and typescript -> totally hooked! 
+Also trying to figure out WordPress website restructuring and updating, which is definitely not exciting and fascinating. LE: Had to drop it, not my gig. 
+
 
 
 ![SoExcited~GIF](https://github.com/GabiDragh/GabiDragh/assets/151403269/62d5ea17-4d2b-451a-808a-f41e92cfb35e)
@@ -24,9 +25,10 @@ I love working on music 🎸, mainly Drum'n'Bass and metal.
 
 <!---
 Until recently, I was doing architectural technical drawing (2d and 3d) mostly on Drum'n'Bass and metal, these days I am coding while playing:
+--->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21klt36ghjsnmj7hxbla72kfa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21klt36ghjsnmj7hxbla72kfa&redirect=true)
---->
+
 
 
 ## ⚡ Fun facts: 
