@@ -1,7 +1,11 @@
 
 # 👋 Hey! Thanks for stopping by!
 #### I am Gabi, a Front-End Developer <img src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" /> Bootcamp graduate. 
-On a fascinating journey to learning WebGl and Three.js. Currently working with next.js and typescript -> totally hooked! 
+
+On a fascinating journey to learning WebGl and Three.js. 
+
+Currently working with next.js and typescript -> totally hooked! 
+
 Also trying to figure out WordPress website restructuring and updating, which is definitely not exciting and fascinating. LE: Had to drop it, not my gig. 
 
 
