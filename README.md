@@ -24,7 +24,7 @@ Also trying to figure out WordPress website restructuring and updating, which is
 
 Music and gigs, 3D modelling, learning to code, puzzles, board games and Mario Odyssey.
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21klt36ghjsnmj7hxbla72kfa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21klt36ghjsnmj7hxbla72kfa&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21klt36ghjsnmj7hxbla72kfa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 
