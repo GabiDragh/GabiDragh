@@ -6,7 +6,7 @@ On a fascinating journey to learning WebGl and Three.js.
 
 Currently working with next.js and typescript -> totally hooked! 
 
-Also trying to figure out WordPress website restructuring and updating, which is definitely not exciting and fascinating. LE: Had to drop it, not my gig. 
+Also trying to figure out WordPress website restructuring and updating, which is definitely not exciting and fascinating. Later edit: Had to drop it, not my gig. 
 
 
 
